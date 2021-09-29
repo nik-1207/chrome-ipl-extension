@@ -1,9 +1,5 @@
-import PlayerCard from "./components/PlayerCard";
-import TeamCard from "./components/TeamCard";
-import { initializeApp } from "firebase/app";
-import { firebase } from "./config";
-
-initializeApp(firebase);
+import PlayerCard from './components/PlayerCard';
+import TeamCard from './components/TeamCard';
 
 function App() {
   return (
