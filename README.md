@@ -1,4 +1,4 @@
-# git clone https://github.com/nik-1207/live-score-extension.git
+# git clone https://github.com/nik-1207/chrome-ipl-extension.git
 # cd  to cloned repositry
 # git flow init
 # git checkout -b "{your name}"
