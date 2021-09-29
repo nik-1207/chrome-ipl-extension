@@ -3,3 +3,5 @@
 # git flow init
 # git checkout -b "{your name}"
 # git push --set-upstream origin {your name}
+# yarn
+# yarn start
